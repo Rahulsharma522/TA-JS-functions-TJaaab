@@ -41,11 +41,19 @@ Do the following with above problem.
 */
 
 // - Write a Function Declaration
-
+   function sayHello(num1,num2){
+     return num1 + num2;
+   }
+   sayHello(12,30);
 // - Write a Function Expression
 
-// - Write an Arrow Function without curly brackets(if possible)
-
+let addNumber = function add(numA, numB){
+ 
+  return numA + numB
+}
+addNumber(10, 20);
+  // - Write an Arrow Function without curly brackets(if possible)
+      
 // - Write an Arrow Function with curly brackets
 
 // - Execute the function
