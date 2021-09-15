@@ -55,7 +55,7 @@ addNumber(10, 20);
   // - Write an Arrow Function without curly brackets(if possible)
       
 // - Write an Arrow Function with curly brackets
-
+     
 // - Execute the function
 
 // - Execute the function and store the return value in a variable.
